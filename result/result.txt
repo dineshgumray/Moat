@@ -1,0 +1,6 @@
+Autocomplete is done.
+Creative count are correct for Saturn.
+Creative count are correct for Saturday’s Market.
+Creative count are correct for Krux.
+Random Brand links are random.
+{1: 'Yes', 2: 'Yes', 3: 'Yes', 4: 'Yes', 5: 'Yes', 6: 'Yes', 7: 'Yes', 8: 'Yes', 9: 'Yes'}
